@@ -1,2 +1,2 @@
-# An-lisis-Riesgo-Pa-s-y-Macroeconom-a-Global
-Este Proyecto desarrolla un pipeline de datos de extremo a extremo (End-to-End) que ingiere, procesa y analiza indicadores macroeconómicos globales. El objetivo es automatizar el cálculo de un índice de vulnerabilidad Económica para mercados emergentes, permitiendo a analistas financieros tomar decisiones basadas en datos actualizados y gobernados.
+Valoración Fundamental y Análisis de Burbujas
+El objetivo técnico es demostrar que el precio actual se ha desviado significativamente de sus fundamentos (Earnings, Sales, o Book Value), lo que en finanzas se conoce como "Mean Reversion" o arbitraje estadístico de largo plazo. Se estructura un pipeline en Databricks usando datos reales de los indicadores financieros NASDAQ y S&P500.
